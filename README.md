@@ -1,0 +1,2 @@
+# brouchure-automatico
+slid dinamico
